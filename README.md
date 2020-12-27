@@ -1,4 +1,4 @@
-These are my submissions for the assignments of the famous Andrew NG ML course on Coursera
+These are my submissions for the assignments of the famous AndrewNg ML course on Coursera
 
 Link to the course - https://www.coursera.org/learn/machine-learning
 
